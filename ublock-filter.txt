@@ -129,4 +129,4 @@ www.reddit.com##shreddit-post[post-title*="Kamala"]
 www.reddit.com##shreddit-post[post-title*="Walz"]
 www.reddit.com##shreddit-post[post-title*="Vance"]
 
-www.9gags.com##article:has(a[href="https://9gag.com/interest/anime"])
+9gags.com##article:has(a[href="https://9gag.com/interest/anime"])
