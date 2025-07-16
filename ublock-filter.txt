@@ -130,3 +130,4 @@ www.reddit.com##shreddit-post[post-title*="Walz"]
 www.reddit.com##shreddit-post[post-title*="Vance"]
 
 9gags.com##article:has(a[href="https://9gag.com/interest/anime"])
+9gags.com##article:has(a[href="https://9gag.com/interest/germany"])
